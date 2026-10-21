@@ -1,0 +1,13 @@
+# 忽略编辑器的备份/临时文件
+*.bak
+*.bak-*
+*.tmp
+*~
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地交接产物（每个人自己的，不进仓库）
+/Back Dialogue/
