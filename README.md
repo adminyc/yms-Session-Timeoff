@@ -1,4 +1,4 @@
-# session-handoff-backup — 跨会话交接技能（WorkBuddy Skill）
+# session-handoff-backup — 跨会话交接技能（Agent Skill）
 
 把一次长会话压缩成一份「下一个会话的接管说明书」`TIMEOFF.md`，解决"对话太长、换个会话就丢上下文"的问题。
 
